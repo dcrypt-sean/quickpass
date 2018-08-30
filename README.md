@@ -4,8 +4,9 @@ Made out of simplicity quickpass generates complex random passwords with ASCII l
 numerals and symbols/punctuation.
 
 ### Instructions:
-1. git clone https://github.com/dcrypt-sean/quickpass.git
-2. python3 quickpass.py
+1. git clone https://github.com/dcrypt-sean/quickpass.git  
+2. cd quickpass/
+3. python3 quickpass.py
 
 ### License:
 http://www.wtfpl.net/txt/copying/
